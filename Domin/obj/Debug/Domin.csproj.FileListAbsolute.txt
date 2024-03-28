@@ -1,0 +1,6 @@
+C:\Users\92312\source\repos\jooledotnet\Domin\bin\Debug\Domin.dll
+C:\Users\92312\source\repos\jooledotnet\Domin\bin\Debug\Domin.pdb
+C:\Users\92312\source\repos\jooledotnet\Domin\obj\Debug\Domin.csproj.AssemblyReference.cache
+C:\Users\92312\source\repos\jooledotnet\Domin\obj\Debug\Domin.csproj.CoreCompileInputs.cache
+C:\Users\92312\source\repos\jooledotnet\Domin\obj\Debug\Domin.dll
+C:\Users\92312\source\repos\jooledotnet\Domin\obj\Debug\Domin.pdb

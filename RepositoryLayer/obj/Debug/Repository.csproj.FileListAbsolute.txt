@@ -1,0 +1,14 @@
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\Domin.dll
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\EntityFramework.dll
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\Domin.pdb
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\EntityFramework.xml
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\Repository.dll.config
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\Repository.dll
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\Repository.pdb
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.dll
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.pdb
