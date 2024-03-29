@@ -26,6 +26,10 @@ namespace Repository
                 .Where(p => p.SubCategory.Contains(searchTerm))
                                  .ToListAsync();
         }
+        public async Task<Product> FindProductById(int id)
+        {
+            return await _context.Products.FindAsync(id);
+        }
 
     }
 }

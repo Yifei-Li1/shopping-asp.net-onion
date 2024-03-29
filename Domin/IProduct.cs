@@ -9,5 +9,7 @@ namespace Domain
     public interface IProduct
     {
         Task<IEnumerable<Product>> GetAllProductsAsync();
+        Task<IEnumerable<Product>> FindProductsAsync(string searchTerm);
+        Task<Product> FindProductById(int id);
     }
 }

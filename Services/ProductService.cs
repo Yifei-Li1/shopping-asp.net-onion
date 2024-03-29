@@ -25,5 +25,9 @@ namespace Services
         {
             return await _productRepository.FindProductsAsync(searchTerm);
         }
+        public async Task<Product> GetProductByIdAsync(int id)
+        {
+            return await _productRepository.FindProductById(id);
+        }
     }
 }
