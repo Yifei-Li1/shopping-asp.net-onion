@@ -1,0 +1,14 @@
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Services.dll
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Services.pdb
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Domin.dll
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Repository.dll
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\EntityFramework.dll
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Domin.pdb
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Repository.pdb
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Repository.dll.config
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\EntityFramework.xml
+C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.dll
+C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.pdb

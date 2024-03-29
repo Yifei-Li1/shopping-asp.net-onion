@@ -1,4 +1,4 @@
-﻿using Domin;
+﻿using Domain;
 
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
