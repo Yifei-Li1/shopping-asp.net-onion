@@ -19,9 +19,10 @@ namespace Repository
         {
             return await _context.Users.ToListAsync();
         }
-        public async Task<User> GetUser(string username)
+        public async Task<User> GetUser(string usernameOrEmail)
         {
-            return await _context.Set<User>().FirstOrDefaultAsync(u => u.UserName == username);
+            
+            return await _context.Set<User>().FirstOrDefaultAsync(u => u.UserName == usernameOrEmail||u.Email == usernameOrEmail);
         }
         public async Task<bool> CreateUserAsync(User user)
         {

@@ -17,15 +17,16 @@ namespace Services
             _userRepository = new UserRepository();
         }
 
-        public async Task<User> GetUserByUsernameAsync(string username)
+        public async Task<User> GetUserByUsernameOrEmailAsync(string usernameOrEmail)
         {
-            return await _userRepository.GetUser(username);
+            return await _userRepository.GetUser(usernameOrEmail);
         }
-        public async Task<bool> createUser(string username, string password)
+        public async Task<bool> createUser(string username, string password,string email)
         {
             User newUser = new User();
             newUser.UserName = username;
             newUser.Password = password;
+            newUser.Email = email;
             return await _userRepository.CreateUserAsync(newUser);
         }
     }

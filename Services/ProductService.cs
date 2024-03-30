@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 using Domain;
 using Repository;
+using Services.Models;
 
 namespace Services
 {
@@ -21,9 +23,11 @@ namespace Services
         {
             return await _productRepository.GetAllProductsAsync();
         }
-        public async Task<IEnumerable<Product>> SearchProductsAsync(string searchTerm)
+        public async Task<IEnumerable<ProductDTO>> SearchProductsAsync(string searchTerm)
         {
-            return await _productRepository.FindProductsAsync(searchTerm);
+            var products = await _productRepository.FindProductsAsync(searchTerm);
+            var productDtos = Mapper.Map<IEnumerable<ProductDTO>>(products);
+            return productDtos;
         }
         public async Task<Product> GetProductByIdAsync(int id)
         {

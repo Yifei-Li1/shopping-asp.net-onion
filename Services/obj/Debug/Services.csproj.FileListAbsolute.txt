@@ -12,3 +12,7 @@ C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.csproj.CoreC
 C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.dll
 C:\Users\92312\source\repos\jooledotnet\Services\obj\Debug\Services.pdb
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\AutoMapper.dll
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\AutoMapper.pdb
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\AutoMapper.xml
+C:\Users\92312\source\repos\jooledotnet\Services\bin\Debug\Services.dll.config
