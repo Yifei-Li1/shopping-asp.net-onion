@@ -13,5 +13,8 @@ namespace Services.Models
         public string Series { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
+        public int Weight { get; set; }
+        public int Height { get; set; }
+        public string ImageLink { get; set; }
     }
 }

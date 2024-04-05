@@ -95,6 +95,18 @@
     <Compile Include="Migrations\202403291733047_AddNewProducts2.designer.cs">
       <DependentUpon>202403291733047_AddNewProducts2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202404010226123_AddWeightHeight.cs" />
+    <Compile Include="Migrations\202404010226123_AddWeightHeight.designer.cs">
+      <DependentUpon>202404010226123_AddWeightHeight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202404011752408_AddImage.cs" />
+    <Compile Include="Migrations\202404011752408_AddImage.designer.cs">
+      <DependentUpon>202404011752408_AddImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202404021850296_AddImagePath.cs" />
+    <Compile Include="Migrations\202404021850296_AddImagePath.designer.cs">
+      <DependentUpon>202404021850296_AddImagePath.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ProductContext.cs" />
     <Compile Include="ProductInitializer.cs" />
@@ -124,6 +136,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202403291733047_AddNewProducts2.resx">
       <DependentUpon>202403291733047_AddNewProducts2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404010226123_AddWeightHeight.resx">
+      <DependentUpon>202404010226123_AddWeightHeight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404011752408_AddImage.resx">
+      <DependentUpon>202404011752408_AddImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404021850296_AddImagePath.resx">
+      <DependentUpon>202404021850296_AddImagePath.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

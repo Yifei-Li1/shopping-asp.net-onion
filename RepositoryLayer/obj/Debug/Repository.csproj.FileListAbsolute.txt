@@ -35,3 +35,6 @@ C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\System.Text.En
 C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\System.Text.Json.xml
 C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.Migrations.AddWeightHeight.resources
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.Migrations.AddImage.resources
+C:\Users\92312\source\repos\jooledotnet\RepositoryLayer\obj\Debug\Repository.Migrations.AddImagePath.resources
